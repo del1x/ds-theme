@@ -3671,5 +3671,21 @@ input::-webkit-input-placeholder {
     opacity: 0.6; }
   .wordmarkWindows-1v0lYD svg {
     display: none; }
+    
+  .expandedFolderBackground-3ZDF05 {
+  background-color: var(--sidebar-color); }
+  
+.folder-2w6LX1 {
+  color: var(--app-accent); /*it doesn't work coz I lost element) */
+  background-color: transparent !important;}
+
+.closedFolderIconWrapper-1I9YfS {
+  background-color: var(--app-accent); }
+
+element.style svg{
+  color: var(--app-accent);
+}
+
+/*# sourceMappingURL=Translucence.theme.css.map */
 
 /*# sourceMappingURL=Translucence.theme.css.map */
