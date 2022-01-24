@@ -2,7 +2,7 @@
 /*! Del1x shit by DeL1x */
 /* SETTINGS */
 :root {
-  --main-color: #d3640993;
+  --main-color: #d364099;
   --hover-color: #cc7a1096;
   --success-color: #43b581;
   --danger-color: #982929;
