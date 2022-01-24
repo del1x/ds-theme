@@ -4983,6 +4983,7 @@ code {
 .appMount-2yBXZl .lookFilled-yCfaCM.colorPrimary-2AuQVo {
   background: var(--main-color);
   color: #fff;
+  font-size: small;
 }
 .appMount-2yBXZl .lookFilled-yCfaCM.colorGreen-3y-Z79:hover,
 .appMount-2yBXZl .lookFilled-yCfaCM.colorGrey-2iAG-B:hover,
@@ -9590,10 +9591,137 @@ textarea::-webkit-scrollbar {
   background: var(--background-overlay);
 }
 
+.theme-dark .container-KM8BU6, .theme-dark .reactors-1VXca7{
+  background-color: var(--background-overlay);
+}
+
+.theme-dark .scroller-2GkvCq {
+  background-color: var(--background-overlay);
+  border-right: 1px solid var(--main-color);
+}
+
+.theme-dark .reactorDefault-3GSyaV {
+  border-bottom: 1px solid var(--main-color);
+}
+
+/* app settings + betterdiscord + activity settings */
+
 .bd-button {
   background-color: #faa81aa8;
 }
 
 .bd-button:hover {
   background-color: #9e680b96;
+}
+
+.inner-2pOSmK {
+  background-image: url(https://media.discordapp.net/attachments/699506987632951328/929981854851948595/alena-aenami-wings-hd.jpg?width=1202&height=676);
+}
+
+.scroller-2XLwLg, .stickyHeader-fX4ei6 {
+  background-color: var(--background-overlay);
+}
+
+.stickyHeader-fX4ei6 {
+  background-color: var(--background-overlay);
+}
+
+.scroller-1TOeMq {
+  background-color: var(--background-overlay);
+}
+
+.theme-dark .notDetected-2HEmAp, .theme-light .notDetected-2HEmAp {
+  background-color: var(--background-overlay);
+}
+
+.bd-addon-views .bd-view-button.selected {
+  background-color: #faa81aa8;
+}
+
+.accountList-305sx3 {
+  background-color: var(--background-overlay);
+}
+
+.noItemsCard-2V85P5, .noItemsCard-5EOcCl {
+  background-color: var(--background-overlay);
+}
+
+.theme-dark .paymentPane-ut5qKZ {
+  background-color: var(--background-overlay);
+}
+
+.theme-dark .codeRedemptionRedirect-3SBiCp {
+  background-color: var(--background-overlay);
+}
+
+.pageActions-1crTQL {
+  background-color: var(--background-overlay);
+}
+
+.theme-dark .summaryInfo-3hcuop {
+  background: var(--background-overlay);
+}
+
+.profileBannerPreview-3mLIdO {
+  background-color: var(--background-overlay);
+}
+
+.lookFilled-1GseHa.select-1Ia3hD {
+  background-color: var(--background-overlay);
+}
+
+.preview-38jjUi {
+  background-color: var(--background-overlay);
+}
+
+.preview-rua1rr {
+  background-color: var(--background-overlay);
+}
+
+.input-3MU9bJ {
+  background-color: var(--background-overlay);
+}
+
+.theme-dark .bottomDivider-ZmTm-j {
+  border-bottom-color: var(--backdrop-overlay);
+}
+
+.theme-dark .expandedInfo-1W31i3 {
+  background-color: var(--backdrop-overlay);
+}
+
+.theme-dark .paginator-1eqD2g {
+  background: var(--background-overlay);
+}
+
+.quickswitcher-pKcM9U {
+  background-color: var(--background-overlay);
+}
+
+.input-3r5zZY {
+  background-color: var(--background-overlay);
+}
+
+.scroller-2qwVWY {
+  background-color: var(--background-overlay);
+}
+
+.result-u66Ywh[aria-selected=true] {
+  background-color: var(--background-overlay);
+}
+
+.connection-107AGH {
+  background-color: var(--background-overlay);
+}
+
+.cardPrimaryOutline-1ofwVz {
+  background-color: var(--background-overlay);
+}
+
+.theme-dark .feature-2IUcBI {
+  background-color: var(--background-overlay);
+}
+
+.cardWrapper-CyvwQv {
+  background-color: var(--background-overlay);
 }
